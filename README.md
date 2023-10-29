@@ -5,4 +5,4 @@ AksharaVidya is an innovative mobile application designed to assist individuals 
 ![Capture](https://github.com/yvarsh55/Book_Recommend/assets/104003929/08cff678-ca87-4cef-b541-12b35a894d03)
 
 ## System Architecture
-![Capture JPGeee](https://github.com/yvarsh55/Book_Recommend/assets/104003929/61f77460-efe9-4eba-80d1-22caa03d96f5)
+![Untitled](https://github.com/yvarsh55/Book_Recommend/assets/104003929/e10e2b10-00e9-41da-aff4-24f638ce5e39)
